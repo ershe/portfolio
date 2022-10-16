@@ -1,6 +1,5 @@
 <template>
-	<section class="container text-white">
-		<h2>Home Start</h2>
+	<section class="container text-white px-4">
 		<ViewGallery></ViewGallery>
 	</section>
 </template>

@@ -1,7 +1,9 @@
 <template>
-	<main class="w-full h-screen dark:bg-gray-900">
-		<TheHeader></TheHeader>
-		<ViewHome></ViewHome>
+	<main class="w-full h-full dark:bg-gray-900">
+		<div class="container mx-auto">
+			<TheHeader></TheHeader>
+			<ViewHome></ViewHome>
+		</div>
 	</main>
 </template>
 
