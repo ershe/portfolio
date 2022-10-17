@@ -1,5 +1,5 @@
 <template>
-	<div class="max-w-sm rounded overflow-hidden hover:shadow-lg">
+	<div class="max-w-sm overflow-hidden hover:shadow-lg">
 		<img class="w-full" :src="cardSrc" alt="" />
 		<div class="px-6 py-4">
 			<div class="font-bold text-xl mb-2">{{ cardTitle }}</div>
